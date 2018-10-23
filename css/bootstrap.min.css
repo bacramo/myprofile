@@ -21,6 +21,7 @@ body {
     font-weight: bold;
     text-align: right;
     margin:0.5%;
+    font-size: 40px;
 }
 #contentcol1 {
     border-left: solid;

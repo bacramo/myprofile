@@ -21,6 +21,7 @@ body {
     font-weight: bold;
     text-align: right;
     margin:0.5%;
+    font-size: 25px;
 }
 #contentcol1 {
     border-left: solid;
@@ -61,7 +62,8 @@ main{
     height:450px;
 }
 .flip-box {
-    margin-left:9% ;
+    margin-left:7%;
+    margin-right:7% ;
     background-color: transparent;
     width: 320px;
     height: 460px;
