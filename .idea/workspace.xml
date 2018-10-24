@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b1c9d09-3911-49c8-852d-17738fa3812d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/intermediatepage/bootstrap/css/bootstrap.min.greetingandlogin.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediatepage/bootstrap/js/verifyme.js" beforeDir="false" afterPath="$PROJECT_DIR$/intermediatepage/bootstrap/js/verifyme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediatepage/greetingandlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/intermediatepage/greetingandlogin.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +17,12 @@
     <session id="1198319683">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,7 +60,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trunngwelcome.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -76,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intermediatepage/greetingandlogin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="73" />
+            <state relative-caret-position="391">
+              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -94,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intermediatepage/bootstrap/css/bootstrap.min.greetingandlogin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="9" selection-start-line="9" selection-end-line="10" />
+            <state relative-caret-position="467">
+              <caret line="5" column="139578" selection-start-line="5" selection-start-column="139578" selection-end-line="5" selection-end-column="139578" />
             </state>
           </provider>
         </entry>
@@ -134,11 +132,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="66" />
+    <option name="width" value="1300" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,17 +243,20 @@
       <updated>1540108291487</updated>
       <workItem from="1540108295116" duration="1237000" />
       <workItem from="1540287852969" duration="11700000" />
-      <workItem from="1540315893852" duration="3333000" />
+      <workItem from="1540315893852" duration="3973000" />
+      <workItem from="1540374149216" duration="1221000" />
+      <workItem from="1540379356881" duration="1203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16270000" />
+    <option name="totallyTimeSpent" value="19334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="75" y="66" width="1300" height="710" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21546261" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23217116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,18 +339,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/intermediatepage/bootstrap/css/bootstrap.min.greetingandlogin.darkversion.css" />
     <entry file="file://$PROJECT_DIR$/trunngwelcome.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/intermediatepage/greetingandlogin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="391">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainpage.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/intermediatepage/bootstrap/js/verifyme.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -358,13 +360,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intermediatepage/bootstrap/css/bootstrap.min.greetingandlogin.darkversion.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/intermediatepage/bootstrap/css/bootstrap.min.greetingandlogin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        <state relative-caret-position="467">
+          <caret line="5" column="139578" selection-start-line="5" selection-start-column="139578" selection-end-line="5" selection-end-column="139578" />
         </state>
       </provider>
     </entry>
