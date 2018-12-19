@@ -7,7 +7,7 @@ function myverification() {
 
         window.location = ".././././v2secret.html";
     }
-    else if(theanswer="showmetheanswer"){
+    else if(theanswer=="showmetheanswer"){
             window.alert("take it");
             document.getElementById('theverificationanswer').style.color="red";
 
